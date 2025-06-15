@@ -35,7 +35,7 @@ header {
   text-align: center;
   margin-bottom: 25px;
   padding: 15px;
-  background: rgb(212, 165, 216);
+  background: rgb(230, 102, 230);
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
 }
